@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background:linear-gradient(80deg, white, #4074a8 130%);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.foot{
+    display: block;
+    position: fixed;
+    margin-top: 100%;
+    margin-bottom: 5px;
+}
+nav{
+    width: 190%;
+    display: flex;
+    position: static;
+    background-color: rgb(212, 210, 216);
+    z-index: 99;
+    height: 40px;
+    -moz-box-shadow: 0px 2px 5px #000000;
+    -webkit-box-shadow: 0px 2px 5px #000000;
+    box-shadow: 0px 2px 5px #000000;
+}
+nav a {
+    color: rgb(0, 0, 0);
+    margin: auto 70px auto 100px;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav li {
+    float: right;
+    list-style: none;
+    margin:auto 50px auto 150px;
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-align: center;
+}
+.txt1{
+    color: black;
+    font-size:x-large;
+}
+.txt2{
+    color: black;
+    font-size:x-large;
+}
+.txtmain{
+    float: left;
+    background-color: #4074a8;
+    margin-top: 70px;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.txtsecon{
+    float: right;
+    background-color: #037926;
+    margin-top: 50px;
+    margin-right: 20px;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+
+
+.mico{
+    
+    height: 250px;
+    width: 15%;
+    margin: auto 30% auto 42%;
+    border-radius: 20px;
+    
+}
+.crg{
+    margin-top: 30px;
+    width: 15%;
+    height: 250px;
+    float: right;
+    margin-right: 20%;
+    border-radius: 20px;
+}
+.lab{
+    margin-top: 30px;
+    width: 15%;
+    height: 250px;
+    float: left;
+    margin-left: 20%;
+    border-radius: 20px;
+}
+.tucano{
+    width: 15%;
+    height: 250px;
+    border-radius: 20px;
+}
+.arara{
+    width: 15%;
+    height: 250px;
+    margin-right: 44rem;
+    border-radius: 20px;
+}
+.mapa{
+    margin: auto;
+    background-color: #4b8594;
+    width: 40%;
+    height: 43rem;
+    padding: 85px;
+    -moz-box-shadow: 0px 2px 5px #000000;
+    -webkit-box-shadow: 0px 2px 5px #000000;
+    box-shadow: 0px 2px 5px #000000;
+}
+iframe{
+    align-items: center;
+}
+.ender{
+    font-size: medium;
+    color: black;
+    margin: 0;
+}
+h2{
+    font-size: xx-larger;
+    color: rgb(212, 210, 216);
+    margin: 0;
+}
+.tel{
+    font-size:larger;
+    float: left;
+    margin-top: 2rem;
+    margin-right: 15rem;
+}
+.veget{
+    margin: auto;
+    background-color: #4b8594;
+    width: 40%;
+    height: 25rem;
+    padding: 85px;
+    -moz-box-shadow: 0px 2px 5px #000000;
+    -webkit-box-shadow: 0px 2px 5px #000000;
+    box-shadow: 0px 2px 5px #000000;
+}
+.mato{
+    height: 210px;
+    width: 30%;
+    margin-left: 0;
+    border-radius: 20px;
+    
+}
+.vegt{
+    color: #000000;
+}
+.txterc{
+        float: left;
+        background-color: #b43131;
+        margin-left: 20px;
+        border-radius: 20px;
+        padding: 10px;
+}
+.txt3{
+    color: black;
+    font-size:x-large;
+}
+.txtquart{
+    float: right;
+    background-color: #d1930d;
+    margin-right: 5rem;
+    margin-top: -15rem;
+    border-radius: 20px;
+    padding: 10px;
+}
+.txt4{
+    color: black;
+    font-size:x-large;
+}
+.conteiner{
+    margin: auto;
+    background-color: #4b8594;
+    width: 40%;
+    height: 25rem;
+    padding: 85px;
+}
+h1{
+    font-size: 2rem;
+    color:rgb(212, 210, 216);
+}
+.animais{
+    float: left;
+}
+h3{
+    float: right;
+}
